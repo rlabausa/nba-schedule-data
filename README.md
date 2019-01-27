@@ -81,6 +81,7 @@ Name | Description | Value Type | Example
 | `gdtutc` | Game Date UTC | _String_ | `"2016-06-20"`
 | `utctm` | UTC Time | _String_ | `"00:00"`
 
+Examples for data collection can be found [here](https://github.com/rlabausa/nba-schedule-data/tree/master/python).
 
 
 
